@@ -2,4 +2,4 @@
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - [Nama Lengkap] - [NPM]
- arfan 
+ arfan 2010631170057
